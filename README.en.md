@@ -8,6 +8,8 @@ Utilizing natural language queries, this system intelligently parses database st
 
 [📺demo_video ./demo_video.mp4](./demo_video.mp4)
 
+[📝Related Paper ./paper.pdf](./paper.pdf)
+
 ### Repositories Related to This Project
 
 This project consists of two repositories. This repository is for concurrent prediction model training and the graphical user interface.

@@ -9,6 +9,8 @@
 
 [📺演示视频 ./demo_video.mp4](./demo_video.mp4) 
 
+[📝相关论文 ./paper.pdf](./paper.pdf)
+
 ### 本项目相关仓库
 本项目包含两个仓库，本仓库为并发预测模型训练和图形界面
 
