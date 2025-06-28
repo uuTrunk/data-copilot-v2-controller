@@ -1,8 +1,9 @@
-# data-copilot
+# data-copilot-v2-controller
 
-✨ **Natural Language Database Query System based on langchain and Large Language Models (LLM)**
+✨ **Natural Language Database Query System based on langchain and Large Language Models (LLM) and Concurrent Prediction Models**
 
-Utilizing natural language queries, this system intelligently parses database structures using large language models, enabling intelligent multi-table structured queries and statistical computations on data. It also smartly generates various charts based on query results. Implemented with Pywebio interactive frontend web pages, without the need for OpenAI API, it's 100% pure Python code.
+Through natural language queries, use large language models to intelligently parse database structures, perform intelligent multi-table structured queries and statistical calculations on data, and intelligently generate various charts based on the query results.  
+Use a concurrency prediction model to intelligently predict the optimal concurrency level, balancing generation success rate and LLM invocation costs.  
 
 🚩[简体中文文档](./README.md)
 
