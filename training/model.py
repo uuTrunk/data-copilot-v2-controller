@@ -8,8 +8,8 @@ from transformers import BertTokenizer, BertModel
 from utils.write_csv import write_csv_from_list
 
 # 初始化BERT模型和分词器
-tokenizer = BertTokenizer.from_pretrained('D:/IDLE/projects/models/bert-base-multilingual-uncased/')
-bert_model = BertModel.from_pretrained('D:/IDLE/projects/models/bert-base-multilingual-uncased/')
+tokenizer = BertTokenizer.from_pretrained("google-bert/bert-base-multilingual-uncased")
+bert_model = BertModel.from_pretrained("google-bert/bert-base-multilingual-uncased")
 
 
 class BertRegressionModel(nn.Module):
